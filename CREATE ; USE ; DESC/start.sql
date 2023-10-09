@@ -7,7 +7,7 @@
  */
  
  
--- See previously created databases
+-- See previously created databases ...
 SHOW Databases;
 
 -- Create New Database
