@@ -10,7 +10,7 @@
 -- See previously created databases ...
 SHOW Databases;
 
--- Create New Database
+-- Create New Database ...
 CREATE DATABASE orga;
 
 -- Setting Current Database
