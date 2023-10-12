@@ -16,6 +16,9 @@ CREATE DATABASE orga;
 -- Setting Current Database
 USE orga;
 
+-- See tables in the database
+SHOW tables;
+
 -- Creating a Table
 CREATE TABLE emp(emp_id INT PRIMARY KEY,
 				  fname varchar(20) NOT NULL,
