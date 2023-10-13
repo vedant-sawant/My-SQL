@@ -31,7 +31,7 @@ CREATE TABLE emp(emp_id INT PRIMARY KEY,
 -- See table scehma / structure
 DESC emp;
 
--- One way of inserting value in table [mention the column in which you want to add data]
+-- One way of inserting value in table [mention the column in which you want to add data] ..
 INSERT INTO emp (emp_id,fname,lname,dept,jdate,salary,status) VALUES (1,'vedant','sawant','CS','2023-08-19',30000,1);
 
 INSERT INTO emp (emp_id,fname,lname,dept,jdate,salary,status) VALUES (3,'yash','gaikwad','IT','2023-08-19',35000,0),
