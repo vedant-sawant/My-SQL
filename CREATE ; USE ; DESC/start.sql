@@ -43,7 +43,7 @@ INSERT INTO emp VALUES(5,'vishal','patil','CS','2023-09-12',25000,0);
 -- Insert Few Columns 
 INSERT INTO emp (emp_id,fname,lname) VALUES(6,'shreyash','bandi');
 
--- See Table Data
+-- See Table Data ...
 SELECT * FROM emp;
 
 -- Can make dual
